@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print('B')
     print('C')
     print('D')
+    print('Fin CP')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
